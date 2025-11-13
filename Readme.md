@@ -1,7 +1,7 @@
 ## Dependencies
 
 This code is written for Python (3.10.12) and makes use of the following packages:
-torch: 1.13.1+cu117
+`torch: 1.13.1+cu117
 numpy: 1.26.4
 pandas: 2.2.2
 scipy: 1.12.0
@@ -18,7 +18,11 @@ jupyterlab: 4.0.5
 nbconvert: 7.8.0
 ipywidgets: 8.0.4
 nbformat: 5.9.2
-traitlets: 5.9.0
+traitlets: 5.9.0`
+
+---
+
+
 
 ## Instructions
 
